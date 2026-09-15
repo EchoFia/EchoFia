@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, my name is Echo (they/them)
+
+## I'm learning GitHub and want to learn open source development, so expect more here (aka, reminder to myself to add more here)
 
 <!--
 **EchoFia/EchoFia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
