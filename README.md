@@ -1,18 +1,16 @@
-## Hi there, my name is Echo (they/them)
+### Hey there!
 
-## I'm learning GitHub and want to learn open source development, so expect more here (aka, reminder to myself to add more here)
+I’m Echo (they/them), a computational scientist based in Cambridge, UK  
+My interests lie in Molecular Dynamics & Bioinformatics, as well as Graphics  
+I love to learn by doing random projects, which I document here  
 
-<!--
-**EchoFia/EchoFia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Working On…
 
-Here are some ideas to get you started:
+- Recreating a Bioinformatics paper’s figures to learn **R** and delve further into Bioinformatics
+- Building a MD simulator from scratch to understand every intricacy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Facts
+
+- Cat whisperer
+- Can whistle shockingly well
+- Addicted to Notion databases
