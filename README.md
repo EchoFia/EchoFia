@@ -14,3 +14,4 @@ I love to learn by doing random projects, which I document here
 - Cat whisperer
 - Can whistle shockingly well
 - Addicted to Notion databases
+- Still wearing shorts at -5˚C
